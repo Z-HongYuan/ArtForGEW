@@ -1,0 +1,2 @@
+# AnythingForVCS
+这是用于GenshinElementalWarfare的美术资源
